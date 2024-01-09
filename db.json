@@ -1,8 +1,8 @@
 {
     "listnamespaces":{
-    "code": 200,
-    "status": true,
-    "message": "success",
+    "errorCode": null,
+    "successful": true,
+    "errorMsg": "success",
     "object": [
         {
             "name": "public",
