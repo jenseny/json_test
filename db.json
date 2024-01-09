@@ -1,4 +1,5 @@
 {
+    "listnamespaces":{
     "code": 200,
     "status": true,
     "message": "success",
@@ -17,4 +18,5 @@
         }
     ],
     "timestamp": "2023-12-15 09:54:54.724"
+    }
 }
