@@ -1,9 +1,8 @@
 {
-    "listnamespaces":{
-    "errorCode": null,
-    "successful": true,
-    "errorMsg": "success",
-    "object": [
+    "code": 200,
+    "status": true,
+    "message": "success",
+    "body": [
         {
             "name": "public",
             "value": "public"
@@ -16,6 +15,6 @@
             "name": "gds-freemud-stg",
             "value": "17cf88c9-3d35-4b4c-b986-0dcd5797e6a9"
         }
-    ]
-}
+    ],
+    "timestamp": "2023-12-15 09:54:54.724"
 }
