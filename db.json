@@ -1,22 +1,21 @@
 {
-    "listnamespaces":{
+    "listGroups":{
     "code": 200,
     "status": true,
     "message": "success",
-    "body": [
-        {
-            "name": "public",
-            "value": "public"
-        },
-        {
-            "name": "old-freemud-stg",
-            "value": "8cbfd385-8b47-48c9-96d0-d1d4e1d0b959"
-        },
-        {
-            "name": "gds-freemud-stg",
-            "value": "17cf88c9-3d35-4b4c-b986-0dcd5797e6a9"
+    "body": {
+        "group": [
+            "DEFAULT_GROUP"
+        ],
+        "mapping": {
+            "DEFAULT_GROUP": [
+                "app-bff",
+                "toggle-api",
+                "msc-api",
+                "app-provision-api"
+            ]
         }
-    ],
-    "timestamp": "2023-12-15 09:54:54.724"
-    }
+    },
+    "timestamp": "2023-12-15 10:03:45.220"
+}
 }
